@@ -1,0 +1,21 @@
+.banner {
+    background-color: azure;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px, 0;
+}
+
+#my_portrait {
+    height: 200px;
+    width: auto;
+}
+
+#cat_image {
+    width: 400px;
+    height: auto;
+}
+
+.cat {
+    background-color: azure;
+    text-align: center;
+}
