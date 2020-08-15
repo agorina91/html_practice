@@ -8,6 +8,7 @@
 #my_portrait {
     height: 200px;
     width: auto;
+    text-align: left;
 }
 
 #cat_image {
@@ -18,4 +19,9 @@
 .cat {
     background-color: azure;
     text-align: center;
+}
+
+.contact {
+    text-align: center;
+    color: red;
 }
